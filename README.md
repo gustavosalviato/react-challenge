@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 React Challenge 02
 
-- [Você pode conferir o link do repositório do desfio nesse link](https://github.com/nandokferrari/fernandev-react-challenge-02)
+- [Você pode conferir o link do repositório do desafio nesse link](https://github.com/nandokferrari/fernandev-react-challenge-02)
 
 - [Assistir aulas, créditos para o canal do fernandev](https://www.youtube.com/watch?v=NAtf3T9gG7s)
 
