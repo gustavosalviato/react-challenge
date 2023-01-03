@@ -1,15 +1,34 @@
-# fernandev
+<h1 align="center"> React Challenge 02 </h1>
 
-## React Interview Challenge #02
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-E aí dev, tudo bem? Trouxe pra você mais um desafio de entrevista para que você possa treinar em casa e aprimorar suas habilidades.
+<br>
 
-Dessa vez temos um formulário de login incompleto e a sua missão é finalizar ele para a sua equipe.
+<p align="center">
+  <img alt="React Challenge 02" src="https://i.imgur.com/ZsqpMnl.png" width="100%">
+</p>
 
-Preste bem atenção às instruções dentro do arquivo App.jsx e bora codar!
+## 🚀 Tecnologias
 
-**Se você curtir esse conteúdo, deixa uma STAR aí nesse repo,** porque isso me motiva a trazer mais conteúdos desse gênero.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Resolução do desafio
+- HTML e CSS
+- JavaScript
+- Promise
+- Hooks Reacts
 
-https://youtu.be/NAtf3T9gG7s
+
+## 💻 Projeto
+
+React Challenge 02
+
+- [Você pode conferir o link do repositório do desfio nesse link](https://github.com/nandokferrari/fernandev-react-challenge-02)
+
+- [Assistir aulas, créditos para o canal do fernandev](https://www.youtube.com/watch?v=NAtf3T9gG7s)
+
+---
+
+Resolvido por gustavosalviato :wave:
